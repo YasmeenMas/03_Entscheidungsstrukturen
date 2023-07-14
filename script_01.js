@@ -3,13 +3,13 @@
 /*Entscheidungsstrukturen | control flow */
 
 // Deklaration + Assignment
-const ageJohn = 35;
-const ageMark = 30;
+const ageJohn = 30;
+const ageMark = 35;
 
 // Deklaration
 let isJohnOlder, isJohnEqual;
 
-//Test | Logisch Aussage
+// Test | Logische Aussage
 isJohnOlder = (ageJohn > ageMark);
 isJohnEqual = (ageJohn == ageMark);
 
